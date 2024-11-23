@@ -250,7 +250,7 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
-![alt text](<ex5 output.png>)
+![alt text](<ex5 opf.png>)
 
 ![alt text](<ex5 terminal.png>)
 
