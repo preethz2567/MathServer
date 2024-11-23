@@ -113,12 +113,13 @@ css file
     }
     
     p{
-      margin:20px;
+      margin-top:10px;
+      margin-bottom:20px;
       font-size: 20;
     }
     
       .form-container {
-        background:  #A0C9D6 ;
+        background:  #89CFF0 ;
         border-radius: 10px;
         padding: 35px 30px;
         width: 750px;
