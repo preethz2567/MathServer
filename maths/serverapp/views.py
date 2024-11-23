@@ -1,5 +1,5 @@
 from django.shortcuts import render 
-def rectarea(request): 
+def findpower(request): 
     context={} 
     context['Power'] = "0" 
     context['I'] = "0" 

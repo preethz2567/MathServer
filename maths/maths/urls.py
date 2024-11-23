@@ -3,6 +3,6 @@ from django.urls import path
 from serverapp import views 
 urlpatterns = [ 
     path('admin/', admin.site.urls), 
-    path('mathserver/',views.rectarea,name="mathserver"),
-    path('',views.rectarea,name="mathserverroot")
+    path('mathserver/',views.findpower,name="mathserver"),
+    path('',views.findpower,name="mathserverroot")
 ]
